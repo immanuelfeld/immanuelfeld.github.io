@@ -13,3 +13,10 @@ about:
     - icon: twitter
       href: https://twitter.com/immanuelfeld
 ---
+
+### Bio
+
+Welcome to my website! It is still under construction as you will notice while exploring other sections.
+
+I am a PhD candidate in economics at [The University of Warwick](https://warwick.ac.uk/).
+---
