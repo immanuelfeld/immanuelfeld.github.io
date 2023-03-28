@@ -1,3 +1,15 @@
 ---
 title: Immanuel Jonas Feld
+image: avatar.jpg
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - icon: envelope
+      href: mailto:immanuel.feld@warwick.ac.uk
+    - icon: github
+      href: https://github.com/immanuelfeld
+    - icon: twitter
+      href: https://twitter.com/immanuelfeld
 ---
