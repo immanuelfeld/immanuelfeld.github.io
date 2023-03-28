@@ -19,4 +19,26 @@ about:
 Welcome to my website which is still under construction.
 
 I am a PhD candidate in economics at [The University of Warwick](https://warwick.ac.uk/).
+
+---
+
+### Education
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
+ **PhD in Economics, 2026 (expected)** | University of Warwick
+
+ **MRes in Economics, 2022** | University of Warwick
+
+ **MA in Economics, 2020** | University of Zurich
+
+ **BSc in Economics and Business Administration, 2018** | Johann Wolfgang Goethe University, Frankfurt am Main
+
+---
+
+### Research interests
+
+Urban/Spatial Economics | Political Economy | Economic History
+
 ---
