@@ -11,7 +11,7 @@ about:
     - icon: github
       href: https://github.com/immanuelfeld 
     - icon: twitter
-      href: https://twitter.com/immanuelfeld target="_blank"
+      href: https://twitter.com/immanuelfeld
 ---
 
 ### Bio
