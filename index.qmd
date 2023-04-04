@@ -28,7 +28,7 @@ I am a PhD candidate in economics at [The University of Warwick](https://warwick
 library(fontawesome)
 ```
 
-***PhD in Economics, 2026 (expected)** \| University of Warwick
+**PhD in Economics, 2026 (expected)** \| University of Warwick
 
 **MRes in Economics, 2022 (with Distinction)** \| University of Warwick
 
