@@ -18,7 +18,7 @@ about:
 
 Welcome to my website which is still under construction.
 
-I am a PhD candidate in economics at [The University of Warwick](https://warwick.ac.uk/).
+I am a PhD candidate in economics at [The University of Warwick](https://warwick.ac.uk/){target="_blank"}.
 
 ------------------------------------------------------------------------
 
