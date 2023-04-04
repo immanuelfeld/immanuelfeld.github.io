@@ -4,8 +4,8 @@ title: "Teaching"
 
 ### University of Warwick
 
-- [EC304: Making of Economic Policy](https://warwick.ac.uk/fac/soc/economics/current/modules/ec304/){target="_blank"}
+- Teaching assistant for [EC304: Making of Economic Policy](https://warwick.ac.uk/fac/soc/economics/current/modules/ec304/){target="_blank"}
 
 ### Goethe University Frankfurt am Main
 
-- [Statistics](https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=217090&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung){target="_blank"}
+- Teaching assistant for [Statistics](https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=217090&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung){target="_blank"}
