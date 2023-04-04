@@ -30,7 +30,7 @@ library(fontawesome)
 
 **PhD in Economics, 2026 (expected)** \| University of Warwick
 
-**MRes in Economics, 2022** \| University of Warwick
+**MRes in Economics, 2022 (with Distinction)** \| University of Warwick
 
 **MA in Economics, 2020** \| University of Zurich
 
