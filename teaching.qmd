@@ -4,4 +4,4 @@ title: "Teaching"
 
 ### University of Warwick
 
-- [EC304: Making of Economic Policy](https://warwick.ac.uk/fac/soc/economics/current/modules/ec304/)
+- [EC304: Making of Economic Policy](https://warwick.ac.uk/fac/soc/economics/current/modules/ec304/){target="_blank"}
