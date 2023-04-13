@@ -10,7 +10,6 @@ website:
         text: Home
       - research.qmd
       - teaching.qmd
-      - cv.pdf
 
 format:
   html:
