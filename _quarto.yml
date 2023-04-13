@@ -10,6 +10,8 @@ website:
         text: Home
       - research.qmd
       - teaching.qmd
+      - href: cv/cv.pdf
+        text: Resume
 
 format:
   html:
