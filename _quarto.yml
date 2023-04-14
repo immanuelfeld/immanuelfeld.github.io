@@ -12,7 +12,7 @@ website:
       - research.qmd
       - teaching.qmd
       - href: cv/cv.pdf
-        text: Resume
+        text: CV
 
 format:
   html:
