@@ -21,7 +21,7 @@ about:
 
 Welcome to my website which is still under construction.
 
-I am a PhD candidate in economics at [The University of Warwick](https://warwick.ac.uk/fac/soc/economics/){target="_blank"}.
+I am a PhD candidate in economics at [The University of Warwick](https://warwick.ac.uk/fac/soc/economics/){target="_blank"}. In my research, I'm interested in how to make cities a more inclusive place and in the political economy that affects the supply of public goods.
 
 ------------------------------------------------------------------------
 
