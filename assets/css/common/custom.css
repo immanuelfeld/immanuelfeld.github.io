@@ -4,19 +4,17 @@
 }
 
 /* Align the profile picture to the left */
-.home .author-profile {
-    display: flex;
-    justify-content: flex-start;
+.home .author-profile img {
+    display: block;
+    margin-left: 0;
 }
 
 /* Align social icons to the left */
 .home .author-icons {
-    display: flex;
-    justify-content: flex-start;
+    text-align: left !important;
 }
 
 /* Align buttons to the left */
 .home .buttons {
-    display: flex;
-    justify-content: flex-start;
+    text-align: left !important;
 }
