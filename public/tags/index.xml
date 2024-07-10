@@ -72,24 +72,38 @@
       <description></description>
     </item>
     <item>
-      <title>History of Oil</title>
-      <link>http://localhost:1313/tags/history-of-oil/</link>
+      <title>Austerity</title>
+      <link>http://localhost:1313/tags/austerity/</link>
       <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/history-of-oil/</guid>
+      <guid>http://localhost:1313/tags/austerity/</guid>
       <description></description>
     </item>
     <item>
-      <title>Mediterranean World</title>
-      <link>http://localhost:1313/tags/mediterranean-world/</link>
+      <title>Climate Action</title>
+      <link>http://localhost:1313/tags/climate-action/</link>
       <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mediterranean-world/</guid>
+      <guid>http://localhost:1313/tags/climate-action/</guid>
       <description></description>
     </item>
     <item>
-      <title>Oleic Science</title>
-      <link>http://localhost:1313/tags/oleic-science/</link>
+      <title>Public Economics</title>
+      <link>http://localhost:1313/tags/public-economics/</link>
       <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/oleic-science/</guid>
+      <guid>http://localhost:1313/tags/public-economics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Skills</title>
+      <link>http://localhost:1313/tags/skills/</link>
+      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/skills/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>State Capacity</title>
+      <link>http://localhost:1313/tags/state-capacity/</link>
+      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/state-capacity/</guid>
       <description></description>
     </item>
     <item>
@@ -118,27 +132,6 @@
       <link>http://localhost:1313/tags/profanity/</link>
       <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/profanity/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Canine Pulmonary Efficiency</title>
-      <link>http://localhost:1313/tags/canine-pulmonary-efficiency/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/canine-pulmonary-efficiency/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sausage Dogs</title>
-      <link>http://localhost:1313/tags/sausage-dogs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sausage-dogs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Zoology</title>
-      <link>http://localhost:1313/tags/zoology/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/zoology/</guid>
       <description></description>
     </item>
   </channel>
