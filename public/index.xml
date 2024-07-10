@@ -30,13 +30,6 @@
       <description>This dataset contains all irregular verbs in known Romance languages.</description>
     </item>
     <item>
-      <title>Performative State Capacity and Climate (In)Action</title>
-      <link>http://localhost:1313/papers/paper1/</link>
-      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/paper1/</guid>
-      <description>Download Paper Abstract Climate action requires significant public and private sector investments to achieve meaningful reductions in carbon emissions. This paper documents that austerity, coupled with a lack of (digital) skills in (local) government, may have been a significant barrier to delivering climate action in the form of retrofitting. Decomposing heterogeneity in estimated treatment effects of a large scale energy efficiency program rolled out through a regression discontinuity design in the early 2010s, we find that both the extent of local budget cuts and poor digital connectivity may be responsible for up to 30% fewer retrofit installations that counterfactually would have taken place.</description>
-    </item>
-    <item>
       <title>Lectures at the Villa of Reduced Circumstances</title>
       <link>http://localhost:1313/teaching/course1/</link>
       <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
@@ -49,6 +42,13 @@
       <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/teaching/course2/</guid>
       <description>This undergraduate course discusses profanity in Early Irish.</description>
+    </item>
+    <item>
+      <title>Performative State Capacity and Climate (In)Action</title>
+      <link>http://localhost:1313/papers/paper1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/paper1/</guid>
+      <description>Download Paper Abstract Climate action requires significant public and private sector investments to achieve meaningful reductions in carbon emissions. This paper documents that austerity, coupled with a lack of (digital) skills in (local) government, may have been a significant barrier to delivering climate action in the form of retrofitting. Decomposing heterogeneity in estimated treatment effects of a large scale energy efficiency program rolled out through a regression discontinuity design in the early 2010s, we find that both the extent of local budget cuts and poor digital connectivity may be responsible for up to 30% fewer retrofit installations that counterfactually would have taken place.</description>
     </item>
   </channel>
 </rss>
