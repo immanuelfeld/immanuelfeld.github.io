@@ -40,7 +40,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["papers","data"]
+    #MainSections: ["papers","data"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -79,6 +79,7 @@ params:
           url: https://x.com/immanuelfeld
 
     assets:
+        disableHLJS: true
         disableScrollBarStyle: true
     cover:
         hiddenInList: false
