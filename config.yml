@@ -63,7 +63,7 @@ params:
         - name: Email
           url: mailto:immanuel.feld@warwick.ac.uk
         - name: GitHub
-          url: https://github.com/pmichaillat
+          url: https://github.com/immanuelfeld
         - name: Twitter
           url: https://x.com/immanuelfeld
 
