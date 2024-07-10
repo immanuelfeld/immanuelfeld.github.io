@@ -29,5 +29,12 @@
       <guid>http://localhost:1313/papers/paper1/</guid>
       <description>Download Paper Abstract Climate action requires significant public and private sector investments to achieve meaningful reductions in carbon emissions. This paper documents that austerity, coupled with a lack of (digital) skills in (local) government, may have been a significant barrier to delivering climate action in the form of retrofitting. Decomposing heterogeneity in estimated treatment effects of a large scale energy efficiency program rolled out through a regression discontinuity design in the early 2010s, we find that both the extent of local budget cuts and poor digital connectivity may be responsible for up to 30% fewer retrofit installations that counterfactually would have taken place.</description>
     </item>
+    <item>
+      <title>Work in Progress and policy work</title>
+      <link>http://localhost:1313/wp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wp/</guid>
+      <description>Projects I&amp;#39;m currently working on</description>
+    </item>
   </channel>
 </rss>
