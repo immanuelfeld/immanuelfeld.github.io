@@ -1,7 +1,7 @@
 ---
 title: "Performative State Capacity and Climate (In)Action" 
-date: \today
-lastmod: \today
+date: 2024-01-15
+lastmod: 2024-07-10
 tags: ["state capacity", "austerity", "skills", "climate action", "public economics"]
 author: ["Immanuel Feld","<a href='https://www.trfetzer.com/' target='_blank'>Thiemo Fetzer</a>"]
 

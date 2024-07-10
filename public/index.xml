@@ -6,7 +6,7 @@
     <description>Recent content on Immanuel Feld</description>
     <generator>Hugo -- 0.128.2</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Location</title>
@@ -21,6 +21,13 @@
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/officehours/</guid>
       <description>Schedule and location for Professor Dr von Igelfeld&amp;#39;s office hours.</description>
+    </item>
+    <item>
+      <title>Performative State Capacity and Climate (In)Action</title>
+      <link>http://localhost:1313/papers/paper1/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/paper1/</guid>
+      <description>Download Paper Abstract Climate action requires significant public and private sector investments to achieve meaningful reductions in carbon emissions. This paper documents that austerity, coupled with a lack of (digital) skills in (local) government, may have been a significant barrier to delivering climate action in the form of retrofitting. Decomposing heterogeneity in estimated treatment effects of a large scale energy efficiency program rolled out through a regression discontinuity design in the early 2010s, we find that both the extent of local budget cuts and poor digital connectivity may be responsible for up to 30% fewer retrofit installations that counterfactually would have taken place.</description>
     </item>
     <item>
       <title>List of Irregular Verbs Across Romance Languages</title>
@@ -42,13 +49,6 @@
       <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/teaching/course2/</guid>
       <description>This undergraduate course discusses profanity in Early Irish.</description>
-    </item>
-    <item>
-      <title>Performative State Capacity and Climate (In)Action</title>
-      <link>http://localhost:1313/papers/paper1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/paper1/</guid>
-      <description>Download Paper Abstract Climate action requires significant public and private sector investments to achieve meaningful reductions in carbon emissions. This paper documents that austerity, coupled with a lack of (digital) skills in (local) government, may have been a significant barrier to delivering climate action in the form of retrofitting. Decomposing heterogeneity in estimated treatment effects of a large scale energy efficiency program rolled out through a regression discontinuity design in the early 2010s, we find that both the extent of local budget cuts and poor digital connectivity may be responsible for up to 30% fewer retrofit installations that counterfactually would have taken place.</description>
     </item>
   </channel>
 </rss>
