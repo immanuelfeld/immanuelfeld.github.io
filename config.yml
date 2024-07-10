@@ -48,6 +48,8 @@ params:
     UseHugoToc: true
     comments: false
     math: true
+    customCSS:
+    - custom.css
     profileMode:
           enabled: true
           title: Immanuel Feld
@@ -57,7 +59,7 @@ params:
           imageHeight: 300
           imageTitle: Immanuel Feld
           buttons:
-            - name: Research
+            - name: Papers
               url: papers/
             - name: Work in Progress
               url: wp/
