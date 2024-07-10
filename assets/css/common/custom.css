@@ -1,4 +1,22 @@
-/* custom.css */
+/* Align the page title text to the left */
 .home .page-title {
     text-align: left !important;
+}
+
+/* Align the profile picture to the left */
+.home .author-profile {
+    display: flex;
+    justify-content: flex-start;
+}
+
+/* Align social icons to the left */
+.home .author-icons {
+    display: flex;
+    justify-content: flex-start;
+}
+
+/* Align buttons to the left */
+.home .buttons {
+    display: flex;
+    justify-content: flex-start;
 }
