@@ -1,18 +1,12 @@
 ---
-title: "Unusual Uses For Olive Oil" 
+title: "Performative State Capacity and Climate (In)Action" 
 date: 2013-01-15
-lastmod: 2024-05-08
-tags: ["philology","oleic science","history of oil","Mediterranean world"]
-author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
+lastmod: \today
+tags: ["state capacity", "austerity", "skills", "climate action", "public economics"]
+author: ["Immanuel Feld","Thiemo Fetzer"]
 description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
 summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
-cover:
-    image: "paper1.png"
-    alt: "Some Uses For Olive Oil"
-    relative: false
-editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Oleic Science"
+
 
 ---
 
@@ -28,7 +22,7 @@ editPost:
 
 ##### Abstract
 
-This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Climate action requires significant public and private sector investments to achieve meaningful reductions in carbon emissions. This paper documents that austerity, coupled with a lack of (digital) skills in (local) government, may have been a significant barrier to delivering climate action in the form of retrofitting. Decomposing heterogeneity in estimated treatment effects of a large scale energy efficiency program rolled out through a regression discontinuity design in the early 2010s, we find that both the extent of local budget cuts and poor digital connectivity may be responsible for up to 30\% fewer retrofit installations that counterfactually would have taken place.
 
 ---
 

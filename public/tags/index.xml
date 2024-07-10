@@ -93,27 +93,6 @@
       <description></description>
     </item>
     <item>
-      <title>Canine Pulmonary Efficiency</title>
-      <link>http://localhost:1313/tags/canine-pulmonary-efficiency/</link>
-      <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/canine-pulmonary-efficiency/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sausage Dogs</title>
-      <link>http://localhost:1313/tags/sausage-dogs/</link>
-      <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sausage-dogs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Zoology</title>
-      <link>http://localhost:1313/tags/zoology/</link>
-      <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/zoology/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Celtic Languages</title>
       <link>http://localhost:1313/tags/celtic-languages/</link>
       <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
@@ -139,6 +118,27 @@
       <link>http://localhost:1313/tags/profanity/</link>
       <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/profanity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Canine Pulmonary Efficiency</title>
+      <link>http://localhost:1313/tags/canine-pulmonary-efficiency/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/canine-pulmonary-efficiency/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sausage Dogs</title>
+      <link>http://localhost:1313/tags/sausage-dogs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sausage-dogs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zoology</title>
+      <link>http://localhost:1313/tags/zoology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/zoology/</guid>
       <description></description>
     </item>
   </channel>
