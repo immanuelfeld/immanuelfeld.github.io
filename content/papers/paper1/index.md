@@ -4,8 +4,6 @@ date: 2013-01-15
 lastmod: \today
 tags: ["state capacity", "austerity", "skills", "climate action", "public economics"]
 author: ["Immanuel Feld","Thiemo Fetzer"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
 
 
 ---
@@ -15,8 +13,6 @@ summary: "This paper reviews unusual uses for olive oil throughout the Mediterra
 ##### Download
 
 + [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/u-star)
 
 ---
 
@@ -26,31 +22,18 @@ Climate action requires significant public and private sector investments to ach
 
 ---
 
-##### Figure 6: Some Uses For Olive Oil
-
-![](paper1.png)
 
 ---
 
 ##### Citation
 
-Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2013. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
+Feld, I., & Fetzer, T. (2024). Performative state capacity and climate (in) action.
 
 ```BibTeX
-@article{UI13,
-author = {Detlev A. Unterholzer and Moritz-Maria von Igelfeld},
-year = {2013},
-title ={Unusual Uses For Olive Oil},
-journal = {Journal of Oleic Science},
-volume = {34},
-number = {1},
-pages = {449--489},
-url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
+@article{feld2024performative,
+  title={Performative state capacity and climate (in) action},
+  author={Feld, Immanuel and Fetzer, Thiemo},
+  year={2024},
+  publisher={CESifo Working Paper}
+}
 ```
-
----
-
-##### Related material
-
-+ [Presentation slides](presentation1.pdf)
-+ [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/)
