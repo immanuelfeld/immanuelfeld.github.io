@@ -19,7 +19,7 @@ menu:
           weight: 4 
 
 params:
-    description: "I am a PhD student in Economics at the University of Warwick. I study local public good provision, local political institutions, and local state capacity."
+    description: "I am a PhD student in Economics at the University of Warwick. My research is at the intersection of Political Economy and Urban Economics. I study local public good provision, local political institutions, and local state capacity."
     author: Immanuel Feld
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -45,7 +45,7 @@ params:
     profileMode:
           enabled: true
           title: Immanuel Feld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          subtitle: "I am a PhD student in Economics at the University of Warwick. My research is at the intersection of Political Economy and Urban Economics. I study local public good provision, local political institutions, and local state capacity."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
