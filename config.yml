@@ -20,7 +20,7 @@ menu:
 
 params:
     description: "I am a PhD student in Economics at the University of Warwick. I study local public good provision, local political institutions, and local state capacity."
-    author: Moritz-Maria von Igelfeld
+    author: Immanuel Feld
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -44,12 +44,12 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
+          title: Immanuel Feld
           subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Moritz-Maria von Igelfeld
+          imageTitle: Immanuel Feld
           buttons:
             - name: Papers
               url: papers/
@@ -94,7 +94,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Immanuel Feld"
       icon: favicon.ico
       iconHeight: 18
 
