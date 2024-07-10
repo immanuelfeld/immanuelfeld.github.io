@@ -59,10 +59,15 @@ params:
           buttons:
             - name: Research
               url: papers/
-            - name: Teaching
-              url: teaching/
-            - name: Data
-              url: data/
+            - name: Work in Progress
+              url: wp/
+              weight: 3
+        #- name: Teaching
+          #url: teaching/
+          #weight: 2
+        #- name: Data
+        #  url: data/
+         # weight: 3 
     socialIcons:
         - name: CV
           url: cv.pdf
