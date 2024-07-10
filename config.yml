@@ -51,10 +51,10 @@ params:
           imageHeight: 270
           imageTitle: Immanuel Feld
           buttons:
-            - name: Papers
+            - name: Research
               url: papers/
-            - name: Courses
-              url: courses/
+            - name: Teaching
+              url: teaching/
             - name: Data
               url: data/
     socialIcons:
