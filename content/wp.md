@@ -5,6 +5,8 @@ description: "Projects I'm currently working on"
 
 ### Work in Progress
 
+- **Endogenous Public Amenities**
+
 - **Weathering the Energy Crisis: Can Tailored Information to Local Governments Spur Climate Action?**  (Joint with [M. Bishop](https://warwick.ac.uk/fac/soc/economics/staff/mbishop/), [T. Fetzer](https://www.trfetzer.com/) and [L. Gazze](https://sites.google.com/view/ludovicagazze)) -- [Draft Soon]
 
 ### Policy and other projects
