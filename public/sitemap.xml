@@ -2,45 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://immanuelfeld.github.io/</loc>
     <lastmod>2024-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/location/</loc>
+    <loc>https://immanuelfeld.github.io/location/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/officehours/</loc>
+    <loc>https://immanuelfeld.github.io/officehours/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/austerity/</loc>
+    <loc>https://immanuelfeld.github.io/tags/austerity/</loc>
     <lastmod>2024-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/climate-action/</loc>
+    <loc>https://immanuelfeld.github.io/tags/climate-action/</loc>
     <lastmod>2024-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/papers/</loc>
+    <loc>https://immanuelfeld.github.io/papers/</loc>
     <lastmod>2024-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/papers/paper1/</loc>
+    <loc>https://immanuelfeld.github.io/papers/paper1/</loc>
     <lastmod>2024-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/public-economics/</loc>
+    <loc>https://immanuelfeld.github.io/tags/public-economics/</loc>
     <lastmod>2024-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/skills/</loc>
+    <loc>https://immanuelfeld.github.io/tags/skills/</loc>
     <lastmod>2024-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/state-capacity/</loc>
+    <loc>https://immanuelfeld.github.io/tags/state-capacity/</loc>
     <lastmod>2024-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://immanuelfeld.github.io/tags/</loc>
     <lastmod>2024-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archive/</loc>
+    <loc>https://immanuelfeld.github.io/archive/</loc>
   </url><url>
-    <loc>http://localhost:1313/data/</loc>
+    <loc>https://immanuelfeld.github.io/data/</loc>
   </url><url>
-    <loc>http://localhost:1313/teaching/</loc>
+    <loc>https://immanuelfeld.github.io/teaching/</loc>
   </url><url>
-    <loc>http://localhost:1313/wp/</loc>
+    <loc>https://immanuelfeld.github.io/wp/</loc>
   </url>
 </urlset>
