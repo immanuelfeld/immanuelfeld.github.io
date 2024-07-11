@@ -25,7 +25,7 @@ menu:
          # weight: 3 
 
 params:
-    description: "I am a PhD student in Economics at the University of Warwick. My research is at the intersection of Political Economy and Urban Economics. I study local public good provision, local political institutions, and local state capacity."
+    description: "I am a PhD student in Economics at the University of Warwick. My research is at the intersection of Political Economy and Urban Economics. More specifically, I am interested in local public good provision, local political institutions, and local state capacity."
     author: Immanuel Feld
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -53,7 +53,7 @@ params:
     profileMode:
           enabled: true
           title: Immanuel Feld
-          subtitle: "I am a PhD student in Economics at the University of Warwick. My research is at the intersection of Political Economy and Urban Economics. I study local public good provision, local political institutions, and local state capacity. \n\n\nYou can find my CV [**here**](cv.pdf)."
+          subtitle: "I am a PhD student in Economics at the University of Warwick. My research is at the intersection of Political Economy and Urban Economics. More specifically, I am interested in local public good provision, local political institutions, and local state capacity. \n\n\nYou can find my CV [**here**](cv.pdf)."
           imageUrl: "picture.jpeg"
           imageWidth: 200
           imageHeight: 300
