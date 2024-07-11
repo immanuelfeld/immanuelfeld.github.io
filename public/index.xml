@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Immanuel Feld</title>
-    <link>http://localhost:1313/</link>
+    <link>https://immanuelfeld.github.io/</link>
     <description>Recent content on Immanuel Feld</description>
     <generator>Hugo -- 0.128.2</generator>
     <language>en</language>
     <lastBuildDate>Wed, 10 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://immanuelfeld.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Location</title>
-      <link>http://localhost:1313/location/</link>
+      <link>https://immanuelfeld.github.io/location/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/location/</guid>
+      <guid>https://immanuelfeld.github.io/location/</guid>
       <description>Professor Dr von Igelfeld&amp;#39;s mailing and office addresses at the Institute of Romance Philology.</description>
     </item>
     <item>
       <title>Office Hours</title>
-      <link>http://localhost:1313/officehours/</link>
+      <link>https://immanuelfeld.github.io/officehours/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/officehours/</guid>
+      <guid>https://immanuelfeld.github.io/officehours/</guid>
       <description>Schedule and location for Professor Dr von Igelfeld&amp;#39;s office hours.</description>
     </item>
     <item>
       <title>Performative State Capacity and Climate (In)Action</title>
-      <link>http://localhost:1313/papers/paper1/</link>
+      <link>https://immanuelfeld.github.io/papers/paper1/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/paper1/</guid>
+      <guid>https://immanuelfeld.github.io/papers/paper1/</guid>
       <description>Download Paper Abstract Climate action requires significant public and private sector investments to achieve meaningful reductions in carbon emissions. This paper documents that austerity, coupled with a lack of (digital) skills in (local) government, may have been a significant barrier to delivering climate action in the form of retrofitting. Decomposing heterogeneity in estimated treatment effects of a large scale energy efficiency program rolled out through a regression discontinuity design in the early 2010s, we find that both the extent of local budget cuts and poor digital connectivity may be responsible for up to 30% fewer retrofit installations that counterfactually would have taken place.</description>
     </item>
     <item>
       <title>Work in Progress and policy work</title>
-      <link>http://localhost:1313/wp/</link>
+      <link>https://immanuelfeld.github.io/wp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wp/</guid>
+      <guid>https://immanuelfeld.github.io/wp/</guid>
       <description>Projects I&amp;#39;m currently working on</description>
     </item>
   </channel>
