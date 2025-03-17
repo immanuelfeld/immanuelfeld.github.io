@@ -72,7 +72,7 @@ params:
          # weight: 3 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: cv-immanuel_feld.pdf
         - name: Email
           url: mailto:immanuel.feld@warwick.ac.uk
         - name: GitHub
