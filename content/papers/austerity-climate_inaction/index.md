@@ -12,7 +12,7 @@ author: ["Immanuel Feld","<a href='https://www.trfetzer.com/' target='_blank'>Th
 
 ##### Download
 
-+ [Paper](paper1.pdf)
++ [Paper](Austerity-and-Climate-Inaction.pdf)
 
 ---
 
