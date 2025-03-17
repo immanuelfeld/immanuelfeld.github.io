@@ -53,7 +53,7 @@ params:
     profileMode:
           enabled: true
           title: Immanuel Feld
-          subtitle: "I am a PhD student in Economics at the University of Warwick. My research is at the intersection of Political Economy and Urban Economics. More specifically, I am interested in local public good provision, local political institutions, and local state capacity. \n\n\nYou can find my CV [**here**](cv-immanuel_feld.pdf)."
+          subtitle: "I am a PhD student in Economics at the University of Warwick. My research is at the intersection of Political Economy and Urban Economics. More specifically, I am interested in local public good provision, local political institutions, and local state capacity. \n\n\nYou can find my CV [**here**](Feld_CV.pdf)."
           imageUrl: "picture.jpeg"
           imageWidth: 200
           imageHeight: 300
@@ -72,7 +72,7 @@ params:
          # weight: 3 
     socialIcons:
         - name: CV
-          url: cv-immanuel_feld.pdf
+          url: Feld_CV.pdf
         - name: Email
           url: mailto:immanuel.feld@warwick.ac.uk
         - name: GitHub
