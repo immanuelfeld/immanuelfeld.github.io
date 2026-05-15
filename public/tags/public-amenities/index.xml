@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Public Amenities on Immanuel Feld</title>
+    <link>http://localhost:1313/tags/public-amenities/</link>
+    <description>Recent content in Public Amenities on Immanuel Feld</description>
+    <generator>Hugo -- 0.128.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/public-amenities/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Endogenous public amenities</title>
+      <link>http://localhost:1313/papers/endogenous-public-amenities/</link>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/endogenous-public-amenities/</guid>
+      <description>Download Paper Abstract This paper examines how local public amenities are distributed across neighbourhoods within cities. Using comprehensive data on libraries, parks, pools, leisure centres, and infrastructure investments in England (2005–2024), I document a striking U-shaped relationship between neighbourhood affluence and public amenity access: the poorest and wealthiest neighbourhoods have the best access, while middle-income areas are systematically underserved. To address endogeneity from household sorting and amenity capitalisation, I exploit quasi-experimental variation from the 2014 Stamp Duty Land Tax reform, which generated discontinuous changes in transaction costs across the house price distribution.</description>
+    </item>
+  </channel>
+</rss>
