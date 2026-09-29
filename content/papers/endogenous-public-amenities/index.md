@@ -30,10 +30,9 @@ This paper examines how local public amenities are distributed across neighbourh
 Feld, I. (2026). Endogenous Public Amenities.
 
 ```BibTeX
-@article{feld2024performative,
-  title={Performative state capacity and climate (in) action},
-  author={Feld, Immanuel and Fetzer, Thiemo},
-  year={2024},
-  publisher={CESifo Working Paper}
+@article{feld2026publicamenities,
+  title={Endogenous Public Amenities},
+  author={Feld, Immanuel},
+  year={2026}
 }
 ```
